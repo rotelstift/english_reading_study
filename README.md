@@ -23,10 +23,10 @@ ChatGPT に適切な教材を作ってもらうためのプロンプトフォー
 表はマークダウンフォーマットのテキスト表示でお願いします。
 分からなかった単語や熟語は以下になります。
 
-`be patient`
-`an instrument`
-`improve with`
-`work toward`
-`celebrate`
-`no matter`
+- `be patient`
+- `an instrument`
+- `improve with`
+- `work toward`
+- `celebrate`
+- `no matter`
 
